@@ -67,4 +67,4 @@ Step-5:
 
 ## Summary:
 
-A Node.js web app deployed using AWS Elastic Beanstalk, featuring auto-scaling, load balancing, and managed EC2 instances. The project demonstrates cloud-native deployment with minimal configuration using the EB CLI, and optionally integrates S3 for static files and RDS for databases.
+A Node.js web app deployed using AWS Elastic Beanstalk, featuring auto-scaling, load balancing, and managed EC2 instances. The project demonstrates cloud-native deployment with minimal configuration using the EB CLI, and optionally integrates S3 for static files and RDS for data storage.
