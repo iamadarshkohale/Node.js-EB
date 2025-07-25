@@ -13,6 +13,8 @@ This setup ensures high availability, flexibility, and ease of deployment, makin
 
 - Node.js files
 
+  ## Reference:AWS ElastciBeanstalk official manual.
+
 
 ## Deployment Steps:
 
